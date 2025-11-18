@@ -24,7 +24,9 @@ html {
  * Customize the background color to match your design.
  */
 
-
+img{
+  width: 400px;
+}
 ::-moz-selection {
   background: #b3d4fc;
   text-shadow: none;
